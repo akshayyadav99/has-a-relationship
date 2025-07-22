@@ -17,6 +17,6 @@ public class Test
 		System.out.println(stu.getName());
 		System.out.println(stu.getAddr().getCityname());
 		System.out.println(stu.getAddr().getAreaname());
-			
+		System.out.printn("Has a relationship program");	
 	}
 }
